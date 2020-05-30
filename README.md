@@ -1,6 +1,6 @@
 ## Cleanup on aisle 5: PEP8ify
 For this assessment, you'll be cleaning up a program that functions properly,
-but doesn't conform to the [PEP8](https://www.python.org/dev/peps/pep-0008/)
+but doesn't conform to the [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 style guide. 
 
 Your task is to update the program so that it is PEP 8 compliant. 
@@ -31,11 +31,11 @@ If you don't have rerun installed, you can run the test suite by itself:
 $ python -m unittest discover
 ```
 
-## PR (Pull Request) Workflow for this Assignment
-1. *Fork* this repository into your own personal github account.
-2. Then *Clone* your own repo to your local development machine.
-3. Create a separate branch named `dev`, and checkout the branch.
-5. Commit your changes, then `git push` the branch back to your own github account.
-5. From your own Github repo, create a pull request (PR) from your `dev` branch back to your own master.
+## PR (Pull Request) Workflow for this assignment
+1. *Fork* this repository into your own personal GitHub account.
+2. *Clone* your own repo to your local development machine.
+3. Create a separate branch named `dev` and checkout the branch.
+5. Commit your changes, then `git push` the branch back to your own GitHub account.
+5. From your own GitHub repo, create a pull request (PR) *from your `dev` branch back to **your own** master*.
 6. Copy/Paste the URL **link to your PR** as your assignment submission.
-7. Your grader will post code review comments inline with your code, in your github account. Be sure to respond to any comments and make requested changes. **RESUBMIT** a new link to your PR after making changes.  This is the code review iteration cycle.
+7. Your grader will post code review comments inline within your pull request in your GitHub account. Be sure to respond to any comments and make requested changes. **RESUBMIT** a new link to your PR after making changes. This is the code review iteration cycle.
